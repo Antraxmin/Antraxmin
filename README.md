@@ -1,13 +1,5 @@
 ## Hi there 👋 I'm chaemin-Lim, a.k.a Antraxmin
-<br>
 
-- 💻 I like to develop various software such as web, app, IoT, AI, and etc..
-- 🌱 My dream is to develop a program that helps society with my IT skills.
-- 🌏 I'm looking for opportunities to collaborate with various people.
-- 🏫 Currently, I majoring in computer software engineering at SCH.univ
-- 🚀 My strength is tremendous immersion, which is the driving force behind my explosive growth.
-- 🏃 I like sports as much as I like programming. I'm good at all kinds of sports!
----
 
 ### 🛠️ Tech Stack 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> 
@@ -26,6 +18,3 @@
 __📚 current I'm running ...__ <br><br>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
