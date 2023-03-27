@@ -1,5 +1,15 @@
 ## Hi there 👋 I'm chaemin-Lim, a.k.a Antraxmin
 
+안녕하세요! 누적 4,000명이 사용하는 [순천향대 맛집알리미](https://sch-food.com) 개발자이자 대학생 창업가 임채민입니다 <br> <br> 
+단 한 명의 사람에게라도 도움이 되는 서비스를 만들기 위해 끊임없이 노력하고 있습니다. 
+
+
+
+### 💻 Projects
+- 순천향대 맛집알리미 - 순천향대 학식 및 주변 음식점 정보 제공 서비스
+- 더치페it - AI 기반 더치페이 어플리케이션
+- CVTV - OpenCV 기반의 IoT 얼굴 인식 CCTV
+
 
 ### 🛠️ Tech Stack 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
