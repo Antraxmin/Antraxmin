@@ -10,6 +10,7 @@
 
 ### 💻 Projects
 - [순천향대 맛집알리미](https://github.com/Antraxmin/SCH-Food) - 순천향대 학식 및 주변 음식점 정보 제공 서비스
+- [FePe](https://github.com/Antraxmin/2023-SCH-Phoenixia-FE) - 2023 순천향대학교 피닉시아 축제 웹서비스 (프론트엔드 개발 총괄)
 - [더치페it](https://github.com/Antraxmin/GDSC-Dutch-pay-it-App) - AI 기반 더치페이 어플리케이션
 - [CVTV](https://github.com/Antraxmin/CVTV) - OpenCV 기반의 IoT 얼굴 인식 CCTV
 
