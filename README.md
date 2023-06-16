@@ -16,7 +16,7 @@
 
 
 ### 🛠️ Tech Stack 
-아래 기술한 언어 및 프레임워크를 활용하여 다양한 프로그램을 개발할 수 있으나 기술적으로 깊은 수준은 아님을 밝힙니다. <br> <br>
+아래 기술한 언어 및 프레임워크를 활용하여 다양한 프로그램을 개발할 수 있습니다. <br> <br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
