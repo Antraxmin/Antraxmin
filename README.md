@@ -3,10 +3,6 @@
 안녕하세요! 누적 7,000명이 사용하는 [순천향대 맛집알리미](https://sch-food.com) 개발자이자 대학생 창업가 임채민입니다 <br> <br> 
 단 한 명의 사람에게라도 도움이 되는 서비스를 만들기 위해 끊임없이 노력하고 있습니다. 
 
-### 🔥 Activity
-- [GDSC SCH](https://github.com/Google-DSC-SCH) 4기 안드로이드 트랙 
-- [멋쟁이사자처럼 at 순천향대학교](https://github.com/LikeLionSCH) 11기 백엔드 트랙
-
 
 ### 💻 Projects
 - [순천향대 맛집알리미](https://github.com/Antraxmin/SCH-Food) - 순천향대 학식 및 주변 음식점 정보 제공 서비스
