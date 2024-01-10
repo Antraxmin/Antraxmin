@@ -1,10 +1,11 @@
 ## Hi there 👋 I'm chaemin-Lim, a.k.a Antraxmin
 
-안녕하세요! 누적 7,000명이 사용하는 [순천향대 맛집알리미](https://sch-food.com) 개발자이자 대학생 창업가 임채민입니다 <br> <br> 
+안녕하세요! 누적 9,500명이 사용하는 [순천향대 맛집알리미](https://sch-food.com) 개발자이자 대학생 창업가 임채민입니다 <br> <br> 
 단 한 명의 사람에게라도 도움이 되는 서비스를 만들기 위해 끊임없이 노력하고 있습니다. 
 
 
 ### 💻 Projects
+- [순천향대 정보 제공 플랫폼 SOON+](https://soon-plus.kr)
 - [순천향대 맛집알리미](https://github.com/Antraxmin/SCH-Food) - 순천향대 학식 및 주변 음식점 정보 제공 서비스
 - [FePe](https://github.com/Antraxmin/2023-SCH-Phoenixia-FE) - 2023 순천향대학교 피닉시아 축제 웹서비스 (프론트엔드 개발 총괄)
 - [더치페it](https://github.com/Antraxmin/GDSC-Dutch-pay-it-App) - AI 기반 더치페이 어플리케이션
