@@ -32,9 +32,9 @@
 
 ## 🚀 Activities
 
-- 9oormthon Univ 3th Front-End track
-- Google Developer Student Club (GDSC) 4th App track 
-- LikeLion SCH 11th Back-End track 
+- [구름톤 유니브](https://github.com/9oormthon-univ) 3기 프론트엔드
+- [멋쟁이사자처럼](https://github.com/LikeLionSCH) 11기 백엔드
+- [Google Developer Student Club(GDSC)](https://github.com/Google-DSC-SCH) 4기 안드로이드 앱 트랙 (Flutter)
 
 ## 💼 Projects
 
