@@ -36,9 +36,9 @@
 
 ## 🚀 Activities
 
-- [구름톤 유니브](https://github.com/9oormthon-univ) 3기 프론트엔드
-- [멋쟁이사자처럼](https://github.com/LikeLionSCH) 11기 백엔드
-- [Google Developer Student Club(GDSC)](https://github.com/Google-DSC-SCH) 4기 안드로이드 앱 트랙 (Flutter)
+- [구름톤 유니브](https://github.com/9oormthon-univ) 3기 프론트엔드 (2024.07~)
+- [멋쟁이사자처럼](https://github.com/LikeLionSCH) 11기 백엔드 (2023.03~2023.08)
+- [Google Developer Student Club(GDSC)](https://github.com/Google-DSC-SCH) 4기 안드로이드 앱 트랙 (2022.07~2023.07)
 
 ## 💼 Projects
 
