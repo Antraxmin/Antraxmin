@@ -31,8 +31,8 @@
 - GDSC SCH 4th 연합 토이프로젝트 경진대회 1위
 
 ## 🚀 Activities
-
 - [구름톤 유니브](https://github.com/9oormthon-univ) 3기 프론트엔드 (2024.07~)
+- [순천향대 IT 서비스 개발 동아리 COMING SOON](https://github.com/COMING-SOON-SCH) 대표 (2024.03~)
 - [멋쟁이사자처럼](https://github.com/LikeLionSCH) 11기 백엔드 (2023.03~2023.08)
 - [Google Developer Student Club(GDSC)](https://github.com/Google-DSC-SCH) 4기 안드로이드 앱 트랙 (2022.07~2023.07)
 
