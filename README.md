@@ -6,8 +6,11 @@
 
 <br />
 
+<div align="center">
+  
 ![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/antraxmin?theme=light&posts=3)
-
+  
+</div>
 
 <!-- <div align="center">
   <a href="https://www.notion.so/your-notion-link" target="_blank">
