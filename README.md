@@ -8,7 +8,7 @@
 
 <br />
 
-![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/antraxmin?theme=light&posts=3)
+![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/antraxmin?theme=dark&posts=3)
 
 <!-- <div align="center">
   <a href="https://www.notion.so/your-notion-link" target="_blank">
