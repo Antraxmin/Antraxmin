@@ -25,6 +25,9 @@
 <br />
 
 
+
+ 
+
 ## 🏆 Awards & Achievements
 
 - 2023 충남학생스타트업 모의 IR경진대회 최우수상
@@ -56,46 +59,12 @@
 
 ## 🛠 Tech Stack
 
-### Proficient
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-
-### Frequently Used
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![arduino](https://img.shields.io/badge/-Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
-![Raspberrypi](https://img.shields.io/badge/-Raspberry&nbsp;PI-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google&nbsp;Cloud&nbsp;Platform-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white)
-
-
-
-### Unprofessional but know-how to use
-
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white)
-![nestjs](https://img.shields.io/badge/-Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-
-### Current I'm running...
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![kubernetes](https://img.shields.io/badge/-kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![mlflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-
+| Category | Technologies |
+|:---------|:-------------|
+| Proficient | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| Frequently Used | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![arduino](https://img.shields.io/badge/-Arduino-00878F?style=flat-square&logo=arduino&logoColor=white) ![Raspberrypi](https://img.shields.io/badge/-Raspberry&nbsp;PI-A22846?style=flat-square&logo=raspberrypi&logoColor=white) ![express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![Google Cloud](https://img.shields.io/badge/-Google&nbsp;Cloud&nbsp;Platform-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white) |
+| Unprofessional but know-how to use | ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white) ![nestjs](https://img.shields.io/badge/-Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-mysql-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| Current I'm running... | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![kubernetes](https://img.shields.io/badge/-kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![mlflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) |
 
 
 <br />
