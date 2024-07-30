@@ -2,13 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End+Developer;Young+Entrepreneur;Innovation+Enthusiast&font=Fira+Code&size=40&center=true&vCenter=true&width=700&height=100&color=f75c7e">
 </div>
 
-
-
 > 안녕하세요, 코드로 혁신을 만들고 창업으로 세상을 바꾸고자 노력하는 소프트웨어 개발자 임채민입니다. <br/> 전문 영역은 프론트엔드이지만 모바일 앱, 백엔드, AI, 데이터 분석, 게임 등 분야에 상관 없이 다양한 프로그램을 개발합니다.
 
 <br />
 
-![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/antraxmin?theme=dark&posts=3)
+![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/antraxmin?theme=light&posts=3)
+
 
 <!-- <div align="center">
   <a href="https://www.notion.so/your-notion-link" target="_blank">
