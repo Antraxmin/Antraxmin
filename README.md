@@ -9,4 +9,4 @@ For the completion of user experience (UX) and developer experience (DX), I aim 
 I am not satisfied with using the library and framework as it is.
 I like to understand principles, analyze internal movements, and implement them directly from the bottom.
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,react,nextjs,nodejs,graphql&titles=true"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,react,nextjs,nodejs,graphql,aws&titles=true"/>
