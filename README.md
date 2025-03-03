@@ -10,3 +10,8 @@ I am not satisfied with using the library and framework as it is.
 I like to understand principles, analyze internal movements, and implement them directly from the bottom.
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,react,nextjs,nodejs,graphql,aws&titles=true"/>
+
+---
+
+- [V8 엔진은 ESM과 CommonJS를 어떻게 실행할까?](https://blog.antraxmin.site/posts/2025-02-18-v8-esm-commonjs) 
+- [JSX와 가상 DOM의 작동 원리를 파헤쳐보자 (feat. Reconciliation 알고리즘)](https://blog.antraxmin.site/posts/2024-01-07-react-virtual-dom)
