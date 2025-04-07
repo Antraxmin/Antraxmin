@@ -8,7 +8,7 @@
 
 ## Open Source Contributions
 **ESLint**
-- Update ESLint's require-unicode-regexp rule document to add clarification of specific exception cases [#19510](https://github.com/eslint/eslint/pull/19510)
+- Update ESLint's `require-unicode-regexp` rule document to add clarification of specific exception cases [#19510](https://github.com/eslint/eslint/pull/19510)
 
 **NestJS**
 - Update the old CLI options table to reflect the latest changes introduced by `@nestjs/swagger/plugin` [#3225](https://github.com/nestjs/docs.nestjs.com/pull/3225)
