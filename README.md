@@ -1,4 +1,4 @@
-## Full-Stack Engineer | DevOps Enthusiast
+## Full-Stack | DevOps Engineer
 
 > [[개발자 인터뷰] 순천향대의 모든 정보를 한 곳에서, SOON+](http://news.sch.ac.kr/news/articleView.html?idxno=1222)  
 
