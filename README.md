@@ -3,7 +3,7 @@
 > [[개발자 인터뷰] 순천향대의 모든 정보를 한 곳에서, SOON+](http://news.sch.ac.kr/news/articleView.html?idxno=1222)  
 
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,js,ts,react,nextjs,expressjs,nestjs,golang,aws&titles=true"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,js,ts,nestjs,fastapi,golang,aws&titles=true"/>
 
 
 ## Open Source Contributions
