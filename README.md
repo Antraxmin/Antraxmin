@@ -3,6 +3,7 @@
   "name": "Antraxmin",
   "title": "Software Engineer",
   "skill": [
+    "JavaScript/TypeScript",
     "Python",
     "Go",
     "Linux",
